@@ -13,7 +13,7 @@ Currently in my first year of Robotics master's at the University of Maryland, C
 
 - 📫 How to reach me: **akonkar@umd.edu, ameyakonkar@gmail.com**.
 
-- ⚡ Projects: [Model Car Navigation usind ROS](https://github.com/ameyakonk/Model-Car-Navigation-using-ROS.git), [Decluttering Domestic Robot using ROS](https://github.com/ameyakonk/Decluttering-Domestic-Robot-ROS.git)
+- ⚡ Projects: [Model Car Navigation using ROS](https://github.com/ameyakonk/Model-Car-Navigation-using-ROS.git), [Decluttering Domestic Robot using ROS](https://github.com/ameyakonk/Decluttering-Domestic-Robot-ROS.git)
 
 <h3 align="left">Languages and Tools used:</h3>
 <p align="left"> 
