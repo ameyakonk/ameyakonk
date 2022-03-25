@@ -5,9 +5,9 @@ Currently in my first year of Robotics master's at the University of Maryland, C
 
 - 🔭 I’m currently working on **Particle Filter based Localization**.
 
-- 🌱 I’m currently learning **Localization and pursuing a Machine Learning course taught by Andrew NG**.
+- I’m currently learning **Localization and pursuing a Machine Learning course taught by Andrew NG**.
 
-- 👯 I’m looking to collaborate on **localization and navigation based projects**.
+- I’m looking to collaborate on **localization and navigation based projects**.
 
 - 💬 Ask me about **Control Systems, ROS, Embedded C**.
 
